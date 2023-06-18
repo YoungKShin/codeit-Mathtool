@@ -14,3 +14,6 @@ def multiply(a, b):
 
 def devide(a, b):
    return a/b
+
+def say_hellow():
+   print("hellow")
